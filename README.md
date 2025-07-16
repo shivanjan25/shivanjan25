@@ -100,6 +100,13 @@ I love building clean, user-friendly web experiences and exploring the world of 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanjan25/shivanjan25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanjan25/shivanjan25/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shivanjan25/shivanjan25/output/pacman-contribution-graph.svg">
+</picture>
+
+
 
 
 
