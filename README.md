@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hi+I'm+Shivanjan+Saha" />
 </p>
 
-<h3 align="center"><strong>WEB Developer | UI/UX | ML Enthusiast</strong></h3>
+<h3 align="center"><strong>WEB Developer | UI/UX </strong></h3>
 <h4  align="center">
 I love building clean, user-friendly web experiences and exploring the world of machine learning. Currently mastering the MERN stack, always curious about new technologies. Let’s connect and create something amazing!
 </h4>
@@ -12,7 +12,7 @@ I love building clean, user-friendly web experiences and exploring the world of 
 ## 📌 About Me
 
 <ul>
-  <li>🛠️ I'm currently working on <strong>Monezzy</strong></li>
+  <li>🛠️ I'm currently working on <strong>Backend</strong></li>
   <li>🌱 I'm currently learning and mastering <strong>MERN</strong></li>
   <li>💬 Ask me about <strong>Web development</strong></li>
   <li>📫 Reach me at <strong>shivanjan2004@gmail.com</strong></li>
@@ -100,11 +100,10 @@ I love building clean, user-friendly web experiences and exploring the world of 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shivanjan25/shivanjan25/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shivanjan25/shivanjan25/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/shivanjan25/shivanjan25/output/pacman-contribution-graph.svg">
-</picture>
+## Badges
+
+[![@shivanjan25's Holopin board](https://holopin.io/api/user/board?user=shivanjan25)](https://holopin.io/@shivanjan25)
+
 
 
 
