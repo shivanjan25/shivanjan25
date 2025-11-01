@@ -81,6 +81,22 @@ I love building clean, user-friendly web experiences and exploring the world of 
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+## 🏅 Badges
+
+### 🌐 Contributor Programs
+
+#### 🚀 **Hacktoberfest 2025**
+<p align="left">
+  <a href="https://assets.holopin.io/hf2025levels/lvl0-human.webp" target="_blank">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-human.webp" alt="Holopin Badges" width="200"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-human.webp" alt="Holopin Badges" width="200"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-human.webp" alt="Holopin Badges" width="200"/>
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbWcyejhoMW4wMDAwanUwNGJxOHUzdWw2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" alt="Holopin Badges" width="200"/>
+  </a>
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+
 
 ## 📊 GitHub Stats
 
@@ -92,17 +108,13 @@ I love building clean, user-friendly web experiences and exploring the world of 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shivanjan25&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-## Badges
-
-[![@shivanjan25's Holopin board](https://holopin.io/api/user/board?user=shivanjan25)](https://holopin.io/@shivanjan25)
 
 
 
